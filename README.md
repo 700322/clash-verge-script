@@ -4,6 +4,8 @@ clash-verge Mihomo Party 防DNS泄露脚本 （通用）
 
 相关视频：https://www.youtube.com/watch?v=sp6Iafweo7I
 
+20260615 删除部分USER-AGENT规则
+
 20250702 新增mihomo party 覆写脚本 yaml格式
 
 20250721 新增规则:哔哩哔哩港澳台
